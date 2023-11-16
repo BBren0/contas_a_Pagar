@@ -1,6 +1,5 @@
 package br.com.cp.api_cp;
 
-import java.math.BigDecimal;
 import java.time.LocalDate;
 
 import org.springframework.format.annotation.DateTimeFormat;

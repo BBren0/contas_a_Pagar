@@ -1,6 +1,5 @@
 package br.com.cp.api_cp;
 
-import java.math.BigDecimal;
 import java.util.List;
 
 import org.springframework.data.jpa.repository.Query;
