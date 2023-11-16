@@ -54,7 +54,7 @@ public class DespesaController {
     public long contarRegistros(){
         return despesaRepository.count();
     }
-
+ 
     @GetMapping("/despes/ordenar")
     public List<Despesa> ordenarDespesas(){
         return despesaRepository.findByOrderBydescricao();
