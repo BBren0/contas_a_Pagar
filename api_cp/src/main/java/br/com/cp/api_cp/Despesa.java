@@ -19,13 +19,13 @@ import lombok.Data;
 public class Despesa {
     @Id
     @GeneratedValue (strategy = GenerationType.IDENTITY) //Responsabilidade do banco de dados gerar o ID
-    private long id;
+    private int id;
     
     @Column(nullable = true)
     private String descricao;
 
     @Column(nullable = true)
-    private BigDecimal valor;
+    private float valor;
     
     @DateTimeFormat(pattern = "dd-MM-YYYY")
     @Column(nullable = true)
