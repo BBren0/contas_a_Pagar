@@ -1,4 +1,4 @@
-package br.com.cp.api_cp;
+package br.com.cp.api_cp.Modelo;
 
 import java.time.LocalDate;
 
