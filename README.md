@@ -41,30 +41,30 @@ Responsável por validar dados, executar operações específicas relacionadas �
 
 <h2>Conceitos de POO Demonstrados:</h2>
 
--**Abstração:** As classes representam entidades do mundo real (Despesa) e objetos com comportamentos específicos (Servico, Controladores) dentro do contexto da aplicação.
+- **Abstração:** As classes representam entidades do mundo real (Despesa) e objetos com comportamentos específicos (Servico, Controladores) dentro do contexto da aplicação.
 
--**Encapsulamento:** Utilização de modificadores de acesso (private, public) para controlar o acesso aos membros das classes, como atributos e métodos.
+- **Encapsulamento:** Utilização de modificadores de acesso (private, public) para controlar o acesso aos membros das classes, como atributos e métodos.
 
 <h2>Método CRUD (Create, Read, Update and Delete)</h2>
 
-`Create:`
+`Create:`  
 É possível criar uma nova despesa utilizando o endpoint /contas_a_Pagar/despesa com os dados apropriados no corpo da requisição (descricao, valor, vencimento). A aplicação valida se a descrição não está vazia e se o valor é maior que zero antes de criar a despesa.
 
-`Read:`
+`Read:`  
 Listagem de Despesas (GET): O endpoint /contas_a_Pagar retorna todas as despesas cadastradas.
 
-`Update:`
+`Update:`  
 A operação de edição de despesa está disponível no endpoint /contas_a_Pagar/despesa/editar, permitindo a atualização dos dados de uma despesa existente. Realiza validações para garantir que o ID exista e que a descrição e o valor sejam válidos.
 
-`Delete:`
+`Delete:`  
 A operação de exclusão de despesa está acessível via /contas_a_Pagar/delete/{id} e remove a despesa com o ID especificado. A aplicação verifica se o ID existe antes de excluir a despesa.
 
 <h2>Inovação e Criatividade</h2>
 
-`Métodos de Consulta Personalizados:`
+`Métodos de Consulta Personalizados:`  
 A criação de métodos personalizados no DespesaRepository para consultas específicas, como filtrar por valor, ordenar por descrição e realizar consultas por caracteres ou início de descrição, demonstra um pensamento além do simples CRUD.
 
-`Vínculo com banco de dados MySql:`
+`Vínculo com banco de dados MySql:`  
 O código tem um vínculo com o banco de dados relacional MySql, isso faz com que as nossas operações CRUD sejam refletidas no banco de dados através. As tabelas no código são representadas pela entidade @Entity que cria uma tabela no banco de dados.
 
 
