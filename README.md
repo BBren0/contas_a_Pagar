@@ -25,17 +25,17 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
 `Controladores (DespesaController)`  
 Responsável por lidar com as requisições HTTP, definindo endpoints e interagindo com os serviços para executar operações específicas.
 
-`Modelos (Despesa, Mensagem)`
+`Modelos (Despesa, Mensagem)`  
 Representam as entidades do domínio da aplicação.
 
 Despesa: Contém atributos relacionados a uma despesa.
 Mensagem: Utilizada para transmitir mensagens informativas ou de erro.
 
-`Repositórios (DespesaRepository)`
+`Repositórios (DespesaRepository)`  
 Interfaces que fornecem métodos para acessar e manipular dados no banco de dados para as entidades específicas (Despesa neste caso).
 Realiza operações de busca, ordenação, filtragem e contagem sobre as despesas.
 
-`Serviço (Servico)`
+`Serviço (Servico)`  
 Contém a lógica de negócios da aplicação.
 Responsável por validar dados, executar operações específicas relacionadas às despesas e interagir com o repositório para persistir ou recuperar informações.
 
