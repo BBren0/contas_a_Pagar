@@ -18,6 +18,7 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
 - O MySQL é um banco de dados relacional amplamente utilizado devido à sua confiabilidade, desempenho e comunidade ativa. É conhecido por ser fácil de usar e estável, sendo uma escolha comum para aplicativos web.
 
 <h2>Facilitadores:</h2>  
+
 - **Lombok:** Utilizado para reduzir a verbosidade do código Java, gerando automaticamente métodos como getters, setters, construtores, etc., por meio de anotações.    
 
 - **Jakarta Persistence (JPA) e Hibernate:** Permitem a persistência de objetos Java em bancos de dados relacionais. Simplificam a interação com o banco de dados através de mapeamento objeto-relacional.
