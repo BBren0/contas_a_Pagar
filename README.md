@@ -6,6 +6,19 @@ Este projeto visa desenvolver uma aplicação web dedicada ao gerenciamento e co
 <h2>Público-Alvo:</h2>    
 Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução prática e eficaz para controlar suas despesas. É útil para pessoas que desejam acompanhar suas finanças pessoais, assim como para equipes financeiras de organizações que precisam gerenciar despesas corporativas.
 
+<h2>Tecnologias empregadas:</h2>   
+####Linguagem de Programação: Java  
+- O Java é uma escolha sólida para o desenvolvimento de aplicativos corporativos devido à sua robustez, portabilidade e ampla adoção na indústria. Sua orientação a objetos e forte suporte à comunidade fazem dele uma escolha popular para o desenvolvimento backend.  
+####Framework:Spring Boot  
+- O Spring Boot, em particular, simplifica muito o processo de configuração e inicialização de aplicativos Spring, fornecendo padrões e facilidades para desenvolvimento rápido. Oferece injeção de dependência, segurança, web MVC, acesso a dados, entre outros.  
+####Banco de Dados: MySQL  
+- O MySQL é um banco de dados relacional amplamente utilizado devido à sua confiabilidade, desempenho e comunidade ativa. É conhecido por ser fácil de usar e estável, sendo uma escolha comum para aplicativos web.
+
+<h2>Facilitadores:</h2>  
+- **Lombok:** Utilizado para reduzir a verbosidade do código Java, gerando automaticamente métodos como getters, setters, construtores, etc., por meio de anotações.  
+- **Jakarta Persistence (JPA) e Hibernate:** Permitem a persistência de objetos Java em bancos de dados relacionais. Simplificam a interação com o banco de dados através de mapeamento objeto-relacional.  
+- **Spring Data JPA:** Facilita a implementação de camadas de acesso a dados baseadas em JPA. Provê funcionalidades para realizar operações comuns de CRUD.  
+
 <h2>Principais Funcionalidades:</h2>    
 
 - **Registro de Despesas:** Permite aos usuários adicionar novas despesas, inserindo informações como descrição, valor e data de vencimento.
@@ -71,8 +84,8 @@ O código tem um vínculo com o banco de dados relacional MySql, isso faz com qu
 
 
 <h2>Desenvolvedor:</h2>
-<h5>-Breno Gabriel Viana Lopes- 202223250 </h5>
+<h5>- Breno Gabriel Viana Lopes- 202223250 </h5>
 <h2> Professor Orientador:</h2>
-<h5>-Prof. José Matias Lemes Filho</h5>
+<h5>- Prof. José Matias Lemes Filho</h5>
 <h2>Matriz Curricular:</h2>
-</h5>-Programação Orientada a Objetos</h5>
+</h5>- Programação Orientada a Objetos</h5>
