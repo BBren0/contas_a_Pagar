@@ -8,7 +8,7 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
 
 <h2>Tecnologias empregadas</h2>   
 
-`Linguagem de Programação: Java`
+`Linguagem de Programação Java`
 - O Java é uma escolha sólida para o desenvolvimento de aplicativos corporativos devido à sua robustez, portabilidade e ampla adoção na indústria. Sua orientação a objetos e forte suporte à comunidade fazem dele uma escolha popular para o desenvolvimento backend.  
 
 `Framework:Spring Boot`
