@@ -7,7 +7,7 @@
 ## Público-Alvo:</h2>    
 ##### Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução prática e eficaz para controlar suas despesas. É útil para pessoas que desejam acompanhar suas finanças pessoais, assim como para equipes financeiras de organizações que precisam gerenciar despesas corporativas.</h5>
 
-##Principais Funcionalidades a serem Implementadas: </h2>    
+##Principais Funcionalidades a serem Implementadas:</h2>    
   Registro de Despesas: Permite aos usuários adicionar novas despesas, inserindo informações como descrição, valor e data de vencimento.
   Edição e Remoção de Despesas: Capacidade de modificar e eliminar despesas previamente cadastradas.
   Consulta e Listagem de Despesas: Funcionalidade para visualizar todas as despesas registradas e buscar despesas específicas por descrição, valor, data e ID.
