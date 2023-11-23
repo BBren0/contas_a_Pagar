@@ -12,7 +12,7 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
 - O Java é uma escolha sólida para o desenvolvimento de aplicativos corporativos devido à sua robustez, portabilidade e ampla adoção na indústria. Sua orientação a objetos e forte suporte à comunidade fazem dele uma escolha popular para o desenvolvimento backend.  
 
 `Framework:Spring Boot`
-- O Spring Boot, em particular, simplifica muito o processo de configuração e inicialização de aplicativos Spring, fornecendo padrões e facilidades para desenvolvimento rápido. Oferece injeção de dependência, segurança, web MVC, acesso a dados, entre outros.
+- O Spring Boot, em particular, simplifica muito o processo de configuração e inicialização de aplicativos Spring, fornecendo padrões e facilidades para desenvolvimento rápido. Oferece injeção de dependência, segurança, acesso a dados, entre outros.
   
 `Banco de Dados: MySQL` 
 - O MySQL é um banco de dados relacional amplamente utilizado devido à sua confiabilidade, desempenho e comunidade ativa. É conhecido por ser fácil de usar e estável, sendo uma escolha comum para aplicativos web.
