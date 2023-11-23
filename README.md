@@ -37,7 +37,6 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
 
 - **Validações e Mensagens de Erro:** Implementação de validações para assegurar a integridade dos dados inseridos e exibição de mensagens claras em caso de erros ou informações incompletas.
 
-- **Acesso Seguro:** Incorporação de medidas de segurança para garantir acesso autorizado e proteção dos dados dos usuários.
 
 <h2>Arquitetura</h2>
 
