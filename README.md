@@ -70,7 +70,7 @@ O código tem um vínculo com o banco de dados relacional MySql, isso faz com qu
 
 
 
-<h2>Desenvolvedore:</h2>
+<h2>Desenvolvedor:</h2>
 <h5>-Breno Gabriel Viana Lopes- 202223250 </h5>
 <h2> Professor Orientador:</h2>
 <h5>-Prof. José Matias Lemes Filho</h5>
