@@ -6,7 +6,7 @@ Este projeto visa desenvolver uma aplicação web dedicada ao gerenciamento e co
 <h2>Público-Alvo:</h2>    
 Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução prática e eficaz para controlar suas despesas. É útil para pessoas que desejam acompanhar suas finanças pessoais, assim como para equipes financeiras de organizações que precisam gerenciar despesas corporativas.
 
-<h2>Tecnologias empregadas:</h2>   
+<h2>Tecnologias empregadas</h2>   
 
 #### Linguagem de Programação: Java  
 - O Java é uma escolha sólida para o desenvolvimento de aplicativos corporativos devido à sua robustez, portabilidade e ampla adoção na indústria. Sua orientação a objetos e forte suporte à comunidade fazem dele uma escolha popular para o desenvolvimento backend.  
@@ -17,7 +17,7 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
 #### Banco de Dados: MySQL  
 - O MySQL é um banco de dados relacional amplamente utilizado devido à sua confiabilidade, desempenho e comunidade ativa. É conhecido por ser fácil de usar e estável, sendo uma escolha comum para aplicativos web.
 
-<h2>Facilitadores:</h2>  
+<h2>Facilitadores</h2>  
 
 - **Lombok:** Utilizado para reduzir a verbosidade do código Java, gerando automaticamente métodos como getters, setters, construtores, etc., por meio de anotações.    
 
@@ -25,7 +25,7 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
   
 - **Spring Data JPA:** Facilita a implementação de camadas de acesso a dados baseadas em JPA. Provê funcionalidades para realizar operações comuns de CRUD.  
 
-<h2>Principais Funcionalidades:</h2>    
+<h2>Principais Funcionalidades</h2>    
 
 - **Registro de Despesas:** Permite aos usuários adicionar novas despesas, inserindo informações como descrição, valor e data de vencimento.
 
@@ -39,7 +39,7 @@ Esta plataforma destina-se a indivíduos ou empresas que procuram uma solução 
 
 - **Acesso Seguro:** Incorporação de medidas de segurança para garantir acesso autorizado e proteção dos dados dos usuários.
 
-<h2>Estrutura e Relação entre as Classes e Módulos</h2>
+<h2>Arquitetura</h2>
 
 `Controladores (DespesaController)`  
 Responsável por lidar com as requisições HTTP, definindo endpoints e interagindo com os serviços para executar operações específicas.
